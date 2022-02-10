@@ -6,13 +6,13 @@
   <a href="https://github.com/TeamDeeCode/Yuriko/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/YurikoRobot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/Nobita_Shuzuka_robot"><img src="(https://telegra.ph/file/c1db6672ba6908334a80e.png)" width="400"></a></p>
 
 ## Available on Telegram as [@Nobita_Shizuka](https://t.me/Nobita_Shuzuka_Robot)
 
 # ❤️ Support
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/DeCodeSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/V3NOM_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/Aman_Jha_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ## ✨ Heroku Deploy ✨
